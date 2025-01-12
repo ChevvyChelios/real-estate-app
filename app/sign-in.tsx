@@ -38,7 +38,7 @@ const SignIn = () => {
             Login to ReState with Google
           </Text>
 
-          <TouchableOpacity onPress={handleLogin} className='bg-white shadow-md shadow-zinc-300 rounded-full w-full py-4 mt-5'>
+          <TouchableOpacity onPress={handleLogin} className='bg-white shadow-md shadow-black-300 rounded-full w-full py-4 mt-5'>
             <View className='flex flex-row items-center justify-center'>
 
               <Image 
